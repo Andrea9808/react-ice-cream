@@ -1,4 +1,4 @@
-Gelateria Menu
+Gelateria Menu (Visualizza: https://andrea-ice-cream.netlify.app/)
 Un'applicazione React per visualizzare il menu di una gelateria, con funzionalità di filtro per categoria.
 
 Caratteristiche
@@ -18,5 +18,4 @@ CSS: Utilizzato per la stilizzazione dell'applicazione.
 Requisiti
 Node.js
 npm (Node Package Manager)
-
 
